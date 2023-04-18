@@ -7,7 +7,5 @@
 
 <p> Contact : +91- 8855985555<p>
 
-<a href="https://wa.me/98745887858">Send Whatsapp Message To Ashok IT Admin Team For More Info......<a> <br/> <br/>
-
 </body>
 </html>
